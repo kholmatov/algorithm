@@ -1,0 +1,19 @@
+#IDE
+.vscode/
+.idea/
+
+# Byte-compiled
+__pycache__/
+*.pyc
+venv/
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+env/
+.DS_Store
+
+# Secrets
+secrets.yml
